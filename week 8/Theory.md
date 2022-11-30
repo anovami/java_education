@@ -18,6 +18,11 @@ pollFirst() и pollLast() возвращают первый\последний �
 
 **5. Какие способы инициализации массива вы знаете?**
 
+`String[] flowers = new String[3]`
+`flowers[0] = "Rose"; flowers[1] = "Tulip"; flowers[2] = "Camomile";`
+
+
+`String[] flowers = new String[] {"Rose", "Tulip", "Camomile"};`
 
 
 **6. Что такое HashMap?**
