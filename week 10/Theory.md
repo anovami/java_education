@@ -1,9 +1,9 @@
 <p> <b> 1. Что такое поток? </b> </p>
-Некая абстракция, которая используется для чтения и записи информации.
+Некая абстракция, которая используется для чтения и записи информации <br>
 
 <p> <b> 2. Какие существуют виды потоков ввода\вывода в Java? Приведите примеры потоков, которые вы знаете. </b> </p>
 
-В Java можно работать с потоками, которые обрабатывают информацию в байтах или символах. 
+В Java можно работать с потоками, которые обрабатывают информацию в байтах или символах
 Потоки для работы с байтами:
 1) Потоки ввода: 1) BufferedInputStream, 2) ByteArrayInputStream, 3) DataInputStream, 4) FileInputStream, 5) ObjectInputStream, 6) SequenceInputStream
 2) Потоки вывода: 1) BufferedOutputStream, 2) ByteArrayOutputStream, 3) DataOutputStream, 4) FileOutputStream, 5) ObjectOutputStream, 6) PrintStream
