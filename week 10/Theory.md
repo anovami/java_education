@@ -8,6 +8,8 @@
 Потоки для работы с байтами:
 1) Потоки ввода: 1) BufferedInputStream, 2) ByteArrayInputStream, 3) DataInputStream, 4) FileInputStream, 5) ObjectInputStream, 6) SequenceInputStream
 2) Потоки вывода: 1) BufferedOutputStream, 2) ByteArrayOutputStream, 3) DataOutputStream, 4) FileOutputStream, 5) ObjectOutputStream, 6) PrintStream
+
+
 Потоки для работы с символами:
 1) Потоки ввода: 1) BufferedReader, 2) CharArrayReader, 3) FileReader, 4) InputStreamReader, 5) LineNumberReader, 6) StringReader
 2) Потоки вывода: 1) BufferedWriter, 2) CharArrayWriter, 3) FileWriter, 4) OutputStreamWriter, 5) StringWriter
